@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VendasNuvemShopApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71b456a87a085e419e4037e822c3f3a7ae49fa6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39301eb9649224a26b018a38d2dc7892f902c5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VendasNuvemShopApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VendasNuvemShopApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
