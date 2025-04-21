@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("VendasNuvemShopApi")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b9a0b17eb5fb51c12d2e63935710b28a61488f")]
 [assembly: System.Reflection.AssemblyProductAttribute("VendasNuvemShopApi")]
