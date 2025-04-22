@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("VendasNuvemShopApi")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b449347be3d2753cd42c9af843f5372425f7165")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b9a0b17eb5fb51c12d2e63935710b28a61488f")]
 [assembly: System.Reflection.AssemblyProductAttribute("VendasNuvemShopApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VendasNuvemShopApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
