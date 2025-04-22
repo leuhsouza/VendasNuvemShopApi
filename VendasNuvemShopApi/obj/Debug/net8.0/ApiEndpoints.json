@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "VendasNuvemShopApi.Controllers.VendasController",
+    "Method": "BuscarVendas",
+    "RelativePath": "api/Vendas/buscar-vendas-nuvemshop",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendasNuvemShopApi.Controllers.VendasController",
+    "Method": "RegistrarVenda",
+    "RelativePath": "api/Vendas/registrar-venda",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "venda",
+        "Type": "VendasNuvemShopApi.DTOs.VendaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mS2oYtB5jai2i+aLguWW6mwD2aT18y2NXJBvjkpSDKg=",
+  "Source": "VendasNuvemShopApi",
+  "BasePath": "_content/VendasNuvemShopApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
